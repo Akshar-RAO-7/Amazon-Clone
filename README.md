@@ -1,39 +1,111 @@
-## React
+🛒 Amazon Clone
 
-This is a simple React application. This application serves as a basic template for a react applications.  
-This project is bootstrapped with [Vite](https://vitejs.dev/guide/).
+A modern Amazon Clone web application built using React and Vite.
+This project replicates core e-commerce UI features like product listings, navigation, and cart management using reusable React components.
 
-## How to run
+It was developed as part of a ByteXL learning project to practice modern frontend development.
 
-1. Before running the application, make sure all dependencies are installed. To install dependencies, run following command in terminal:
+🚀 Features
 
-   ```sh
-   npm install
-   ```
+🛍️ Amazon-style homepage layout
 
-2. Once dependencies are installed, run the following command to start the application:
+🔍 Product listing interface
 
-   ```sh
-   npm run dev
-   ```
+🧭 Navigation bar with search UI
 
-3. Refresh the URL in simple browser to see the output.
+🛒 Cart state management using Context API
 
-## FAQs & Debugging
+⚡ Fast development with Vite
 
-### 1. I do not see browser in my workspace
+♻️ Reusable React components
 
-Studio will automatically open the app in a new browser tab. If not, you can use the following steps to open the simple browser
+📱 Responsive design
 
-1. From VS Code command pallette(`Ctrl/Cmd + Shift + P`), run **Studio Manager: SimpleBrowser Default URL** command. This will open the app in a new browser tab.
+🛠️ Tech Stack
 
-2. Your app runs on hosted env which can be accessed using host id, port provided in file **.vscode/.studio/studio-env.json**. Use values to create the URL as follows:
-   `https://<STUDIO_HOST_ID>-3000.<STUDIO_DOMAIN>`
+⚛️ React
 
-### 2. Getting `vite: not found` error
+⚡ Vite
 
-This means node_modules are missing in your workspace, please refer the 'How to run' section and make sure you have followed the steps in sequence
+🎨 CSS
 
-### 3. Can I use create-react-app instead Vite?
+🧠 React Context API
 
-Yes, you can use create-react-app instead Vite, the default workspace is loaded with Vite setup, you can remove the Vite dependencies, add create-react-app dependencies and update the scripts to start using create-react-app.
+📦 Node.js / npm
+
+📂 Project Structure
+AMAZON CLONE
+│
+├── public/                # Static assets
+│
+├── src/
+│   ├── assets/            # Images and icons
+│   ├── components/        # Reusable React components
+│   ├── context/           # Global state management
+│   ├── data/              # Static data files
+│   ├── pages/             # Application pages
+│   ├── router/            # Routing configuration
+│   ├── utils/             # Helper functions
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/Akshar-RAO-7/Amazon-Clone.git
+
+Navigate into the project folder:
+
+cd Amazon-Clone
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+The application will run locally at:
+
+http://localhost:5173
+📸 Screenshots
+
+(Add screenshots of your project here)
+
+Example:
+
+/screenshots/homepage.png
+/screenshots/product-page.png
+🎯 Learning Goals
+
+This project helped in understanding:
+
+React component architecture
+
+Context API for state management
+
+Vite development environment
+
+Project structuring for scalable apps
+
+👨‍💻 Author
+
+Akshar Rao
+
+📜 License
+
+This project is licensed under the MIT License.
+
+## 🔗 Live Demo 
+http://localhost:3000/
+https://amazon-clone.vercel.app
+
+(You can deploy using Vercel in 2 minutes.)
