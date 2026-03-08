@@ -1,7 +1,6 @@
 # 🛒 Amazon Clone (React + Vite)
 
-🔗 **Live Demo:** https://amazon-clone-demo.vercel.app
-*(Replace this link after deploying the project)*
+🔗 **Live Demo:** http://localhost:3000/
 
 A modern **Amazon-style e-commerce frontend application** built using **React ⚛️ and Vite ⚡**.
 This project replicates the core layout and functionality of the Amazon website including product listings, navigation components, and cart state management.
