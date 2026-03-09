@@ -110,13 +110,6 @@ Start the development server:
 npm run dev
 ```
 
-The application will start locally and can be accessed at:
-
-```
-http://localhost:5173
-```
-
----
 
 # 🔄 Development Workflow
 
