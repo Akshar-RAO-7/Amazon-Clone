@@ -1,7 +1,5 @@
 # 🛒 Amazon Clone (React + Vite)
 
-🔗 **Live Demo:** http://localhost:3000/
-
 A modern **Amazon-style e-commerce frontend application** built using **React ⚛️ and Vite ⚡**.
 This project replicates the core layout and functionality of the Amazon website including product listings, navigation components, and cart state management.
 
