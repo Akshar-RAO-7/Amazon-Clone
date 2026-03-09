@@ -5,7 +5,6 @@ This project replicates the core layout and functionality of the Amazon website 
 
 The goal of this project is to practice **component-based architecture, routing, and state management in React** while building a scalable frontend structure.
 
----
 
 # 📌 Project Overview
 
